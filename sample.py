@@ -13,4 +13,4 @@ if monthly_salary >= 30000.00:
         else:
             print (f"Your monthly salary is too low for the loan. Please enter another amount ₱{max_amount:.2f}")
 else:
-    print("You are not eligble for a loan.")
+    print("You are not eligble for a loan because your salary is way too low.")
